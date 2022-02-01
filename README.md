@@ -2,6 +2,7 @@
 An application that showcases Cocktail Drinks using react js.
 Fetched Cocktails API using Context (https://reactjs.org/docs/context.html)
 
+Demo: https://dalelanto-react-project-cocktail.netlify.app/
 
 #### React Router Fix
 
